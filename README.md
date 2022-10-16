@@ -30,11 +30,6 @@ I am currently in the Tokyo area, taking care of my daughters and working on the
 <code><img align="left" alt="Python" height="30px" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /></code>
 <code><img align="left" alt="Linux" height="30px" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 
-<!-- <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> -->
-<!-- <img align="left" alt="VSCODE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/icons/vscode/vscode-original.svg" /> -->
-<br />
-<br />
-
 #
 
 ### 📊 Stats

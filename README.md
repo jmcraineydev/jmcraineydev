@@ -15,9 +15,11 @@ I am currently in the Tokyo area, taking care of my daughters and working on the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jmcraineydev?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<br/>
+<br/>
+
 ### 🧰 Languages and Tools
 
-<br/>
 <br/>
 
 <div>
@@ -42,6 +44,8 @@ I am currently in the Tokyo area, taking care of my daughters and working on the
 <br>
 
 ### 📊 Stats
+
+<br/>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jmcraineydev&show_icons=true&hide_border=true&theme=codeSTACKr" alt="Jason's github stats" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcraineydev&hide=procfile&layout=compact&hide_border=true&theme=codeSTACKr" />
 

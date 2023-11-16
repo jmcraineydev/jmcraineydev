@@ -1,12 +1,12 @@
 # Jason McRainey
 
-**Full-Stack Developer**
+**iOS & Full-Stack Developer**
 
-I'm a full-stack software engineer with a background in mentoring, compliance, and mitigating emergencies. Disney, aviation, fountain pens, Aeropress coffee, and automation are at the top of the list of things that I enjoy.
+I'm a full-stack software engineer focusing on iOS development with a background in mentoring, compliance, and mitigating emergencies. Disney, aviation, fountain pens, Aeropress coffee, and automation are at the top of the list of things that I enjoy.
 
-My path to full-stack software engineering began with independent studies, which I was able to apply at work to develop automation systems with Google App Script. These significantly reduced repetitive tasks for the team and sparked my desire to build my software engineering skills further. As a result, I have gained experience building full-stack applications using Javascript, Node.js/Express, React & React Native, PostgreSQL, Firebase, Python, and MongoDB.
+My path to full-stack software engineering began with independent studies, which I was able to apply at work to develop automation systems with Google App Script. These significantly reduced repetitive tasks for the team and sparked my desire to build my software engineering skills further. As a result, I have gained experience building full-stack applications using Javascript, Node.js/Express, React & React Native, PostgreSQL, Firebase, and MongoDB.
 
-I am currently in the Tokyo area, taking care of my daughters and working on the future features of my projects.
+I am currently in the Tokyo area, taking care of my daughters and working on the future features of my iOS projects.
 
    <p align="left">
       <a href="https://github.com/jmcraineydev?tab=followers">
@@ -33,7 +33,6 @@ I am currently in the Tokyo area, taking care of my daughters and working on the
 <img align="left" alt="HTML" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Linux" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 

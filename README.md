@@ -48,7 +48,7 @@ I am currently in the Tokyo area, taking care of my daughters and working on the
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jmcraineydev&show_icons=true&hide_border=true&theme=codeSTACKr&include_all_commits=true" alt="Jason's github stats" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcraineydev&hide=procfile&layout=compact&hide_border=true&theme=codeSTACKr" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jmcraineydev&show_icons=true&hide_border=true&theme=codeSTACKr&include_all_commits=true&hide=stars,contribs" alt="Jason's github stats" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcraineydev&hide=procfile&layout=compact&hide_border=true&theme=codeSTACKr" />
 
 <!-- <details>
  <summary><h3>👨‍💻 Jason's Coding Journey</h3></summary>

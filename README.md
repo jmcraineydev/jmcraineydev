@@ -1,12 +1,15 @@
 # Jason McRainey
 
-**iOS & Full-Stack Developer**
+**iOS Engineer & Full-Stack Developer | Swift Specialist | Mentor**
 
-I'm a full-stack software engineer focusing on iOS development with a background in mentoring, compliance, and mitigating emergencies. Disney, aviation, fountain pens, Aeropress coffee, and automation are at the top of the list of things that I enjoy.
+I’m a software engineer with a deep focus on iOS development and the Swift language — blending hands-on experience across full-stack development, quality engineering, and mentoring.
 
-My path to full-stack software engineering began with independent studies, which I was able to apply at work to develop automation systems with Google App Script. These significantly reduced repetitive tasks for the team and sparked my desire to build my software engineering skills further. As a result, I have gained experience building full-stack applications using Javascript, Node.js/Express, React & React Native, PostgreSQL, Firebase, and MongoDB.
+My journey into engineering began through self-driven learning and automation. I first applied these skills at work using Google Apps Script to reduce repetitive workflows, which ignited a lasting passion for software development. Since then, I’ve built and maintained full-stack applications using JavaScript, Node.js, React, React Native, PostgreSQL, Firebase, and MongoDB — but my heart belongs to Swift and crafting thoughtful, privacy-conscious iOS apps.
 
-I am currently in the Tokyo area, taking care of my daughters and working on the future features of my iOS projects.
+Over the years, I've worn many hats: iOS engineer, full-stack developer, quality assurance lead, and technical mentor. I especially enjoy helping others grow in their careers and guiding new engineers on best practices.
+
+Currently based in Tokyo, I split my time between parenting and building tools that make life a little easier — fueled by Aeropress coffee, fountain pens, and a touch of Disney magic.
+
 
    <p align="left">
       <a href="https://github.com/jmcraineydev?tab=followers">
@@ -17,38 +20,14 @@ I am currently in the Tokyo area, taking care of my daughters and working on the
 
 <br/>
 <br/>
-
+<!-- 
 ### 🧰 Languages and Tools
 
 <br/>
 
 <div>
-<img align="left" alt="Swift" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="JavaScript" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="PostgreSQL" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="MongoDB" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Firebase" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="HTML" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Git" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-
-<br/>
-<br/>
-<br/>
-
-#
-
-<br>
-
-### 📊 Stats
-
-<br/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jmcraineydev&show_icons=true&hide_border=true&theme=codeSTACKr&include_all_commits=true&hide=stars,contribs" alt="Jason's github stats" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcraineydev&hide=procfile&layout=compact&hide_border=true&theme=codeSTACKr" />
+<img align="left" alt="Swift" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img align="left" alt="JavaScript" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /><img align="left" alt="React" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img align="left" alt="NodeJS" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img align="left" alt="PostgreSQL" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img align="left" alt="MongoDB" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><img align="left" alt="Firebase" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" /><img align="left" alt="HTML" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /><img align="left" alt="CSS" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /><img align="left" alt="Git" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /><img align="left" alt="Linux" height="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+</div> -->
 
 <!-- <details>
  <summary><h3>👨‍💻 Jason's Coding Journey</h3></summary>
